@@ -44,3 +44,8 @@
 70
 71
 80
+
+Anyone knowns what math operator results in 44 different combinations of two 8's? The sum must not result in more than 8.
+
+https://twitter.com/relativetoyou/status/1310074186090643462
+https://www.reddit.com/r/askmath/comments/j0kxmt/anyone_knowns_what_math_operator_results_in_44/
