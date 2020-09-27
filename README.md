@@ -96,5 +96,9 @@ An alternative, two-sided spatial symmetric view of the same sequence:
 
 This is some sort of balance operator, we have 8 things total and we split them between two spaces. 44 (or 45 with 00) is the count of all the possible splits between these two spaces.
 
+![](https://raw.github.com/procedural/-/master/reddit.png)
+
+Thank you for answers, [linukszone](https://www.reddit.com/user/linukszone/), [CavemanKnuckles](https://www.reddit.com/user/CavemanKnuckles/)!
+
 https://twitter.com/relativetoyou/status/1310074186090643462
 https://www.reddit.com/r/askmath/comments/j0kxmt/anyone_knowns_what_math_operator_results_in_44/
