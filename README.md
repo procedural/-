@@ -47,5 +47,52 @@
 
 Anyone knowns what math operator results in 44 different combinations of two 8's? The sum must not result in more than 8. Also, maybe it should equal to 45 if we include 00 possibility.
 
+An alternative, two-sided spatial symmetric view of the same sequence:
+
+01
+10
+02
+20
+03
+30
+04
+40
+05
+50
+06
+60
+07
+70
+08
+80
+11
+12
+21
+13
+31
+14
+41
+15
+51
+16
+61
+17
+71
+22
+23
+32
+24
+42
+25
+52
+26
+62
+33
+34
+43
+35
+53
+44
+
 https://twitter.com/relativetoyou/status/1310074186090643462
 https://www.reddit.com/r/askmath/comments/j0kxmt/anyone_knowns_what_math_operator_results_in_44/
