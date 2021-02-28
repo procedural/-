@@ -45,7 +45,7 @@
 71
 80
 
-Anyone knowns what math operator results in 44 different combinations of two 8's? The sum must not result in more than 8. Also, maybe it should equal to 45 if we include 00 possibility.
+Anyone knows what math operator results in 44 different combinations of two 8's? The sum must not result in more than 8. Also, maybe it should equal to 45 if we include 00 possibility.
 
 An alternative, two-sided spatial symmetric view of the same sequence:
 
